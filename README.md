@@ -1,4 +1,4 @@
-# Knock Knock - 사용자의 관심사를 분석, 원하는 상품 최저가 알리미
+# Knock Knock - 사용자의 관심사를 분석, 최저가 알리미
 ![0001](https://user-images.githubusercontent.com/56705480/75111777-fdad0a00-5680-11ea-8981-96825ecd8cc9.jpg)
 ![0002](https://user-images.githubusercontent.com/56705480/75111778-ff76cd80-5680-11ea-9470-fe00d1411a72.jpg)
 ![0003](https://user-images.githubusercontent.com/56705480/75111779-000f6400-5681-11ea-8b42-d3586ce3b280.jpg)
