@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "172501072688",
+    "firebase_url": "https://jarvis-77f82.firebaseio.com",
+    "project_id": "jarvis-77f82",
+    "storage_bucket": "jarvis-77f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172501072688:android:f214553ffd8d97271ba6f5",
+        "android_client_info": {
+          "package_name": "com.jarvis.kk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172501072688-j9vom3i4ift9j8nt9gqh1s611pvgm1ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkr58o05whwQ9NgVeTcmWAqjYMl7vSi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172501072688-tmun2bemq49d84vi1h3c8a1q7jf9o28o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172501072688:android:31caa4381d2033551ba6f5",
+        "android_client_info": {
+          "package_name": "com.navi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172501072688-j9vom3i4ift9j8nt9gqh1s611pvgm1ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkr58o05whwQ9NgVeTcmWAqjYMl7vSi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172501072688-tmun2bemq49d84vi1h3c8a1q7jf9o28o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
