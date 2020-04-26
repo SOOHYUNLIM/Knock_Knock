@@ -5,8 +5,7 @@ import json
 from bs4 import BeautifulSoup
 
 def lambda_handler(event, context):
-    conn = pymysql.connect(host='jarvis1.clzkjwwf2qt9.ap-northeast-2.rds.amazonaws.com', port=3306, user='admin',
-                           passwd='rlxhdqks001!', db='jarvis', cursorclass=pymysql.cursors.DictCursor)
+    conn = pymysql.connect()
     curs = conn.cursor()
 
     selectPickList = 'select pno, title, wanted_price from tbl_pick where receipt = true'
