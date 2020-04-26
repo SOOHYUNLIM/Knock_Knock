@@ -9,8 +9,7 @@ from bs4 import BeautifulSoup
 
 
 def lambda_handler(event, context):
-    conn = pymysql.connect(host='jarvis1.clzkjwwf2qt9.ap-northeast-2.rds.amazonaws.com', port=3306, user='admin',
-                           passwd='rlxhdqks001!', db='jarvis')
+    conn = pymysql.connect()
     curs = conn.cursor()
 
     selectLastData = 'select title from tbl_community_crawling where no >= (select no from tbl_community_crawling where last_crawling = 1 order by no desc limit 1) limit 3'
