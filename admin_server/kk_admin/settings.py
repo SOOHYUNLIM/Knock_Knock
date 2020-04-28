@@ -77,8 +77,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'jarvis',
-        'USER': 'admin',
-        'PASSWORD': 'rlxhdqks001!',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'jarvis1.clzkjwwf2qt9.ap-northeast-2.rds.amazonaws.com',
         'PORT': '3306',
         'OPTIONS': {
